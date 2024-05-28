@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bremzen
+- 👀 I’m interested in learning backend. (frontend is just ugh for me)
+- 🌱 I’m currently learning python and html
+- 🏫 Currently studying (woo...)
